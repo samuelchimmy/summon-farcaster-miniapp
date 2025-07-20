@@ -27,7 +27,7 @@ export default function MiniApp() {
 
   const addMiniApp = async () => {
     try {
-      await sdk.actions.addMiniApp(F);
+      await sdk.actions.addMiniApp();
     } catch (e) {
       console.log(e);
     }
