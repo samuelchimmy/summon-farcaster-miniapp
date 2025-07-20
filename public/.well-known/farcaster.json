@@ -1,31 +1,20 @@
 {
-  "frame": {
-    "name": "Xerxes MiniApp template",
-    "version": "1",
-    "iconUrl": "https://farcaster-miniapp-template-steel.vercel.app/logo.png",
-    "homeUrl": "https://farcaster-miniapp-template-steel.vercel.app/miniapp",
-    "imageUrl": "https://farcaster-miniapp-template-steel.vercel.app/logo.png",
-    "splashImageUrl": "https://farcaster-miniapp-template-steel.vercel.app/logo.png",
-    "splashBackgroundColor": "#E8EBED",
-    "webhookUrl": "https://farcaster-miniapp-template-steel.vercel.app/api/webhook",
-    "subtitle": "Nextjs app router Template",
-    "description": "Farcaster Nextjs App router MiniApp Template",
-    "primaryCategory": "developer-tools",
-    "tags": ["cat", "fishing", "game", "earn", "farming"],
-    "tagline": "Xerxes MiniApp Template",
-    "ogTitle": "Xerxes MiniApp ",
-    "ogDescription": "Chill",
-    "requiredChains": ["eip155:8453"],
-    "requiredCapabilities": [
-      "wallet.getEthereumProvider",
-      "actions.ready",
-      "actions.signIn",
-      "actions.openUrl",
-      "actions.composeCast",
-      "actions.addMiniApp",
-      "haptics.impactOccurred",
-      "haptics.notificationOccurred",
-      "haptics.selectionChanged"
-    ]
-  }
+"frame": {
+"name": "Xerxes MiniApp Template",
+"homeUrl": "https://farcaster-miniapp-template-steel.vercel.app/miniapp",
+"iconUrl": "https://farcaster-miniapp-template-steel.vercel.app/logo.png",
+"version": "1",
+"imageUrl": "https://farcaster-miniapp-template-steel.vercel.app/logo.png",
+"subtitle": "Nextjs MiniApp Template",
+"webhookUrl": "https://farcaster-miniapp-template-steel.vercel.app/api/webhook",
+"description": "Nextjs MiniApp Template using shadcn and tailwind",
+"splashImageUrl": "https://farcaster-miniapp-template-steel.vercel.app/splash.png",
+"primaryCategory": "developer-tools",
+"splashBackgroundColor": "#E8EBED"
+},
+"accountAssociation": {
+"header": "eyJmaWQiOjc5NTYwNiwidHlwZSI6ImF1dGgiLCJrZXkiOiIweEJjMDhmZjEyQTNhYzE3MzZhQTYxMkFhODZDQjZjMDI0Njc1OUEzM0UifQ",
+"payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItbWluaWFwcC10ZW1wbGF0ZS1zdGVlbC52ZXJjZWwuYXBwIn0",
+"signature": "MYDZ4gPwJ3S7/4DcS13JYmhAXGLnTcU0f3pQ43LYKI0R3FjwZGafOr/ZCZl+yFaCQ0DojWm9PWNuPjJi/mYJixw="
+}
 }
