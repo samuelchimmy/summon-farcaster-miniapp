@@ -20,7 +20,7 @@ export function MiniAppProvider({ children }) {
       try {
         const sdkCont = await sdk.context;
         const res = await sdk.quickAuth.fetch(
-          `https://8e87f068797d.ngrok-free.app/api/auth/me`
+          `https://${process.env.NEXT_PUBLIC_HOSTNAME}/api/auth/me`
         );
         if (res.ok) {
           const user = await res.json();
