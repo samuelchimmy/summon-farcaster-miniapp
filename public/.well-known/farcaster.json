@@ -8,7 +8,7 @@
 "subtitle": "Nextjs MiniApp Template",
 "webhookUrl": "https://farcaster-miniapp-template-steel.vercel.app/api/webhook",
 "description": "Nextjs MiniApp Template using shadcn and tailwind",
-"splashImageUrl": "https://farcaster-miniapp-template-steel.vercel.app/splash.png",
+"splashImageUrl": "https://farcaster-miniapp-template-steel.vercel.app/logo.png",
 "primaryCategory": "developer-tools",
 "splashBackgroundColor": "#E8EBED"
 },
