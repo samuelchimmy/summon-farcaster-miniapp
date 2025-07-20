@@ -1,0 +1,33 @@
+{
+  "frame": {
+    "name": "PS6 Journey",
+    "version": "1",
+    "iconUrl": "https://ebe7666e0817.ngrok-free.app/logo.jpeg",
+    "homeUrl": "https://ebe7666e0817.ngrok-free.app/miniapp",
+    "imageUrl": "https://ebe7666e0817.ngrok-free.app/image.png",
+    "splashImageUrl": "https://ebe7666e0817.ngrok-free.app/logo.jpeg",
+    "splashBackgroundColor": "#17101F",
+    "webhookUrl": "https://ebe7666e0817.ngrok-free.app/api/webhook",
+    "subtitle": "WE ARE TESSTING",
+    "description": "WE ARE TESSTING BUDDY",
+    "primaryCategory": "developer-tools",
+    "tags": ["cat", "fishing", "game", "earn", "farming"],
+    "heroImageUrl": "https://cat.town/fc-pre.png",
+    "tagline": "Play Collect and Earn",
+    "ogTitle": "Cat Town",
+    "ogDescription": "Your cozy onchain home.",
+    "ogImageUrl": "https://cat.town/fc-pre.png",
+    "requiredChains": ["eip155:8453"],
+    "requiredCapabilities": [
+      "wallet.getEthereumProvider",
+      "actions.ready",
+      "actions.signIn",
+      "actions.openUrl",
+      "actions.composeCast",
+      "actions.addMiniApp",
+      "haptics.impactOccurred",
+      "haptics.notificationOccurred",
+      "haptics.selectionChanged"
+    ]
+  }
+}
