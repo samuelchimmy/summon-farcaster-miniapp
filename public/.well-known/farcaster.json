@@ -7,7 +7,7 @@
 "imageUrl": "https://farcaster-miniapp-template-steel.vercel.app/logo.png",
 "subtitle": "Nextjs MiniApp Template",
 "webhookUrl": "https://farcaster-miniapp-template-steel.vercel.app/api/webhook",
-"description": "Nextjs MiniApp Template using shadcn and tailwind",
+"description": "Effortlessly book, manage, and monetize meetings within the Farcaster social network. Built on Base for creators who value their time.",
 "splashImageUrl": "https://farcaster-miniapp-template-steel.vercel.app/logo.png",
 "primaryCategory": "developer-tools",
 "splashBackgroundColor": "#E8EBED"
